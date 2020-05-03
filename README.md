@@ -3,5 +3,3 @@
 ## Run in ubuntu 18.04
 curl -sL https://raw.githubusercontent.com/jenscas/fsn/master/smpc.sh -o smpc.sh && sudo bash smpc.sh
 ```
-
-## Run in ubuntu 18.04
